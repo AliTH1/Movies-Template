@@ -6,7 +6,7 @@ fetch("https://api.tvmaze.com/shows")
     for(let i = 0; i < 40; i++){
         movies.innerHTML +=
         `<div class="col-3 my-4">
-            <img src="${json[i].image.medium}" alt="${json[i].name}">
+            <img class="rounded" src="${json[i].image.medium}" alt="${json[i].name}">
             <br>
             <span class="text-light">Название: ${json[i].name}</span>
             <br>
