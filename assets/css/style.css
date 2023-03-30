@@ -29,3 +29,29 @@ h1{
 .activate-sertificate{
     color: rgb(rgb(172, 56, 154), green, blue)
 }
+
+.support-button{
+    width: 150px;
+    height: 40px;
+    background-color: #282338;
+}
+
+.icons-support{
+    width: 150px;
+    height: 30px;
+}
+
+.mail{
+    width:30px;
+    height: 25px;
+    border-radius: 10px;
+    display: inline;
+    justify-content: center;
+    color: white;
+}
+
+.phone{
+    color: white;
+    display: inline;
+
+}
