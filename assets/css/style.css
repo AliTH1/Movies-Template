@@ -1,0 +1,31 @@
+body{
+    background-color: #2B3035;
+}
+
+hr{
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+h1{
+    padding-left: 0px;
+    color: white;
+}
+
+.filters{
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.default-sort{
+    color: white;
+    margin-left: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.activate-sertificate{
+    color: rgb(rgb(172, 56, 154), green, blue)
+}
