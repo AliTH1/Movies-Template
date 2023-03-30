@@ -56,12 +56,13 @@ h1{
 
 }
 
-img{
+.card{
     cursor: pointer;
     box-shadow: red;
     transition: .4s;
+    border: none;
 }
-img:hover{
+.card:hover{
     box-shadow: 0 0 20px #6b6b6b;
     transform: scale(1.025);
     transition: .4s;
